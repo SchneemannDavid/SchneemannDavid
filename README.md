@@ -1,18 +1,17 @@
 ## Welcome :smiley:
 
 ### I'm David Schneemann
-<!--
-**SchneemannDavid/SchneemannDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Aspiring Data Scientist | UofMichigan grad | Army veteran
 
+🌱 I’m currently learning data science with Codeup! With Emphasis in:
+  - Python
+  - SQL
+  - Data Visualization (Tableau)
 
+💬 Ask me about:
+  - meditation
+  - organizational transformation and culture change
+  - San Diego :sunglasses:
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: 
+  - 
