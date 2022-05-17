@@ -9,8 +9,8 @@
   - Data Visualization (Tableau)
 
 💬 Ask me about:
-  - meditation
-  - organizational transformation and culture change
+  - Meditation and Mindfulness
+  - Organizational Transformation and Culture Change
   - San Diego :sunglasses:
 
 📫 How to reach me: 
