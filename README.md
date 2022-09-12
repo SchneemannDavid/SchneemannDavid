@@ -33,9 +33,10 @@
   <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
 </p>
 
-## Tools
+## Software/Tools
 <p>
-  
+  <a href="#"><img alt="OS-Mac" src="https://img.shields.io/badge/-OS%20Mac-555555?logo=apple&logoColor=white"></a>
+  <a href="#"><img alt="OS-Windows" src="https://img.shields.io/badge/-OS%20Windows-555555?logo=windows&logoColor=blue"></a>
   <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white">
   <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4A8B99.svg?logo=Jupyter&logoColor=white"></a>
