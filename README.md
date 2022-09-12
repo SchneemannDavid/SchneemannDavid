@@ -1,7 +1,7 @@
 ## Welcome :smiley:
 
 ### I'm David Schneemann
-#### Aspiring Data Scientist | UofMichigan grad | Army veteran
+#### Aspiring Data Scientist | University of Michigan alum | Army veteran
 
 🌱 I’m currently learning data science with Codeup! With Emphasis in:
   - Python
