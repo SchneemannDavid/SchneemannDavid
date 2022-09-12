@@ -1,8 +1,8 @@
 <h1 align="center">Welcome :smiley: I'm David Schneemann</h1>
-<h3 align="center">Aspiring Data Scientist @ Codeup LLC | University of Michigan alum | Army veteran</h3>
+<h3 align="center">Data Scientist @ Codeup LLC | University of Michigan alum | Army veteran</h3>
 
 
-🌱 I’m currently learning the full data science pipeline with Codeup! With Emphasis in:
+🌱 I’m currently learning the full data science pipeline with Codeup! With Strong Emphasis in:
   - Python
   - SQL
   - Data Visualization (Tableau)
@@ -14,7 +14,6 @@
 :round_pushpin: San Diego, CA<br />
 📬  [Email me!](david.schneemann1@gmail.com)
 
-<h3 align="left">My Knowledge Base:</h3>
 
 ## Languages
 <p>
@@ -43,4 +42,5 @@
   <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-63B9CC?logo=stack-overflow&logoColor=white"></a>
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-7ce8ff.svg?logo=Trello&logoColor=white"></a>
   <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-89EAFF.svg?logo=google%20sheets&logoColor=white"></a>
-  
+</p>
+ 
