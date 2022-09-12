@@ -10,7 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/davidschneemann/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="david-schneemann" /></a>
-:round_pushpin: San Diego, CA
+
+:round_pushpin: San Diego, CA<br />
 📬  [Email me!](david.schneemann1@gmail.com)
 
 <h3 align="left">My Knowledge Base:</h3>
