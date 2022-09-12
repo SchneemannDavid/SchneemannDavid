@@ -12,7 +12,7 @@
   - San Diego :sunglasses:
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/in/davidschneemann/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="david-schneemann" /></a>
+<a href="https://www.linkedin.com/in/davidschneemann/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="david-schneemann" /></a>
 
 <h3 align="left">My Knowledge Base:</h3>
 
