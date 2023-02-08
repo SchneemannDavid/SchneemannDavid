@@ -1,13 +1,13 @@
 <h1 align="center">Welcome :smiley: I'm David Schneemann</h1>
-<h3 align="center">Data Scientist @ Codeup LLC | University of Michigan alum | Army veteran</h3>
+<h3 align="center">Codeup Data Science Graduate | University of Michigan alum | Army veteran</h3>
 <h3 align="center">:round_pushpin: San Diego, CA</h3>
 
+I'm a highly adaptable and detail-oriented data scientist with a strong background in analytics, leadership, and organizational development. I'm eager to learn and grow as a data science practitioner in service of business objectives and organizational excellence. <br>
+I have comprehensive knowledge of the data science pipeline, from data acquisition to modeling and client delivery. <br>
+I offer a unique and well-rounded skillset with a background in real-world problem solving.
 
-🌱 I’m currently learning the full data science pipeline with Codeup! With Strong Emphasis in:
-  - Python
-  - SQL
-  - Data Visualization (Tableau)
-
+🌱 I’m currently learning TensorFlow! New Projects coming soon!
+  
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/davidschneemann/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="david-schneemann" /></a>
